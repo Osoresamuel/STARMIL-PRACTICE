@@ -10,11 +10,12 @@
 #dt{
     margin-top: 100px;
     margin-left: 100px;
-    border: 30px solid;
+    border: 20px solid;
     border-radius: 20px;
-    background-color: white ;
+    background-color: blue;
     border-color: blue;
     cursor: pointer;
+    color: white;
 }
 .two{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSPiBT6p6AI38BU824e6LxlRY7W1lo-FrDg&usqp=CAU);

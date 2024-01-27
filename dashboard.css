@@ -1,0 +1,114 @@
+.body{
+    background-color: grey;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-right: 150px;
+    padding-bottom: 150px;
+}
+.rr{
+    padding-left: 150px;
+}
+#no{
+    border: 10px solid;
+    border-radius: 15px;
+    border-color: aqua;
+    cursor: pointer;
+    margin-right: 45px;
+}
+#ni{
+    border: 10px solid;
+    border-radius: 15px;
+    border-color: blue;
+    cursor: pointer;
+    margin-right: 45px;
+}
+#ny{
+    border: 10px solid;
+    border-radius: 15px;
+    border-color: green;
+    cursor: pointer;
+    margin-right: 45px;
+}
+#nt{
+    border: 10px solid;
+    border-radius: 15px;
+    border-color: purple;
+    cursor: pointer;
+    margin-right: 45px;   
+}
+#kk{
+    border: 50px solid;
+    border-color: red;
+    border-radius: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-color: aqua;
+}
+#kp{
+    border: 50px solid;
+    border-color: red;
+    border-radius: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-color: blue;
+}
+#ko{
+    border: 50px solid;
+    border-color: red;
+    border-radius: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-color: green;
+}
+#ki{
+    border: 50px solid;
+    border-color: red;
+    border-radius: 25px;
+    margin-right: 45px;
+    margin-bottom: 25px;
+    background-color: aqua;
+}
+#ku{
+    border: 50px solid;
+    border-color: red;
+    border-radius: 25px;
+    margin-right: 45px;
+    margin-bottom: 25px;
+    background-color: blue;
+}
+#ky{
+    border: 50px solid;
+    border-color: red;
+    border-radius: 25px;
+    margin-right: 25px;
+    margin-bottom: 25px;
+    background-color: green;
+}
+#gg{
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-right: 300px solid;
+    border-radius: 25px;
+    border-color: white;
+    background-color: white;
+    color: blue;
+}
+#ff{
+    margin-left: 400px;
+    margin-top: 30px;
+    border: 15px solid;
+    border-radius: 15px;
+    border-color: blue;
+    background-color: blue;
+    color: white;
+}
+#ss{
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-right: 700px solid;
+    border-radius: 25px;
+    border-color: white;
+    background-color: white;
+    color: blue;
+    cursor: pointer;
+}
