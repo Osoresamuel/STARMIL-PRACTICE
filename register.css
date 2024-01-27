@@ -1,0 +1,18 @@
+.body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQSPiBT6p6AI38BU824e6LxlRY7W1lo-FrDg&usqp=CAU);
+}
+.body2{
+    border-right: 150px solid;
+    border-top: 10px solid;
+    border-bottom: 10px solid;
+    border-color: white;
+    border-radius: 25px;
+    color: black;
+    cursor: pointer;
+    outline-color: blue;
+    
+}
+.g{
+    color: blue;
+    background-color: white;
+}
