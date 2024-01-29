@@ -4,6 +4,8 @@
     padding-right: 150px;
     padding-right: 150px;
     padding-bottom: 150px;
+    height: 100%;
+    width: 100%;
 }
 .rr{
     padding-left: 150px;
@@ -111,4 +113,8 @@
     background-color: white;
     color: blue;
     cursor: pointer;
+}
+.van{
+    height: 50%;
+    width: 50%;
 }
