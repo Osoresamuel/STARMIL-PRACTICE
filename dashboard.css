@@ -15,28 +15,28 @@
     border-radius: 15px;
     border-color: aqua;
     cursor: pointer;
-    margin-right: 45px;
+    margin-right: 5%;
 }
 #ni{
     border: 10px solid;
     border-radius: 15px;
     border-color: blue;
     cursor: pointer;
-    margin-right: 45px;
+    margin-right:5% ;
 }
 #ny{
     border: 10px solid;
     border-radius: 15px;
     border-color: green;
     cursor: pointer;
-    margin-right: 45px;
+    margin-right:5% ;
 }
 #nt{
     border: 10px solid;
     border-radius: 15px;
     border-color: purple;
     cursor: pointer;
-    margin-right: 45px;   
+    margin-right:5% ;   
 }
 #kk{
     border: 50px solid;
@@ -107,7 +107,7 @@
 #ss{
     border-top: 10px solid;
     border-bottom: 10px solid;
-    border-right: 700px solid;
+    border-right: 400px solid;
     border-radius: 25px;
     border-color: white;
     background-color: white;
@@ -117,4 +117,51 @@
 .van{
     height: 50%;
     width: 50%;
+    display: flex;
+}
+.flex{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
+@media screen and (max-width:850px){
+    .body{
+        padding: 0%;
+        height: 50%;
+        width: 50%;
+    }
+    .van{
+        padding: 2%;
+    }
+    #ss{
+        border-right: 10% solid;
+    }
+    .flex{
+        display: grid;
+        grid-template-columns: repeat(1,2fr);
+        justify-content: space-around;
+        padding: 0%;
+        margin: 0%;
+    }
+}
+@media screen and (max-width:500px){
+    .body{
+        padding: 0%;
+    }
+    .flex{
+        display: grid;
+        grid-template-columns: 2fr;
+        padding: 0%;
+        margin: 0%;
+    }
+    .van{
+        /* display: flex; */
+        margin: 5%;
+     }  
+     /* #ss{
+        border-right: 500px solid;
+     } */
+     /* #gg{
+    
+     } */
+
 }

@@ -12,9 +12,10 @@
     margin-left: 100px;
     border: 30px solid;
     border-radius: 20px;
-    background-color: white ;
+    background-color: blue ;
     border-color: blue;
     cursor: pointer;
+    color: white;
 }
 /* #hh{
     background-image: url(https://starmil.pro/assets/files/img/657587764a2483.97380693.jpeg);
